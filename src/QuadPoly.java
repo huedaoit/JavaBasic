@@ -6,8 +6,8 @@ public class QuadPoly {
 
 
     public QuadPoly add(QuadPoly q2) {
-        System.out.printf("simple");
-        ///
+        System.out.printf("simple ddfjdsljfkdsjfkdjsfk");
+
 
         return q2;
     }

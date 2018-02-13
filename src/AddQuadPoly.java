@@ -12,6 +12,7 @@ public class AddQuadPoly {
         QuadPoly q1 = new QuadPoly();
         QuadPoly q2 = new QuadPoly();
         QuadPoly q3 = q1.add(q2);
+        q1.
 
     }
 
