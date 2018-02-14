@@ -17,7 +17,7 @@ public class PrintTriangleMirror {
                 System.out.print(" ");
             }
             // phần 2
-            for (int c = 1; c <= n; c++) {
+            for (int k = 1; k <= n; k++) {
                 System.out.println("[-]");
             }
             // phần 3

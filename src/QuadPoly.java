@@ -4,11 +4,13 @@ public class QuadPoly {
     double b;
     double c;
 
+    public QuadPoly(double x, double y, double z) {
+        a = x;
+        b = y;
+        c = z;
+        System.out.printf(+a+"x^2"+"+"+b+"x"+"+"+c);
 
-    public QuadPoly add(QuadPoly q2) {
-        System.out.printf("simple ddfjdsljfkdsjfkdjsfk");
-
-
-        return q2;
     }
+
+
 }
