@@ -9,6 +9,7 @@ public class QuadPoly {
         b = y;
         c = z;
         System.out.printf(+a+"x^2"+"+"+b+"x"+"+"+c);
+        /// add
 
     }
 
