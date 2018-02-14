@@ -9,7 +9,7 @@ public class AddQuadPoly {
         int b2 = Integer.parseInt(args[4]);
         int c2 = Integer.parseInt(args[5]);
 
-
+//add
         QuadPoly q1 = new QuadPoly(a1, b1, c1);
         System.out.printf("\n");
         QuadPoly q2 = new QuadPoly(a2, b2, c2);
