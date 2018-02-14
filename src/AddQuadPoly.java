@@ -9,11 +9,14 @@ public class AddQuadPoly {
         int b2 = Integer.parseInt(args[4]);
         int c2 = Integer.parseInt(args[5]);
 
-//add
+
+        System.out.printf("polynomial: ");
         QuadPoly q1 = new QuadPoly(a1, b1, c1);
         System.out.printf("\n");
+        System.out.printf("add to: ");
         QuadPoly q2 = new QuadPoly(a2, b2, c2);
         System.out.printf("\n");
+        System.out.printf("results is:");
         QuadPoly q3 = add(q1, q2);
 
     }
